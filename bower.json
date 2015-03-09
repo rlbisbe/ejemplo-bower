@@ -1,0 +1,22 @@
+{
+  "name": "paquete",
+  "version": "1.0.0",
+  "authors": [
+    "Roberto <roberto.luis@rlbisbe.net>"
+  ],
+  "description": "Paquete de ejemplo",
+  "main": "index.html",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "modernizr": "~2.8.3",
+    "jquery": ">=1.6",
+    "jquery-ui": ">1.10"
+  }
+}
